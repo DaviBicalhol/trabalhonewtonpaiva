@@ -27,8 +27,8 @@ O sistema simula uma jornada de compra completa: desde a visualização de produ
 4. (Opcional) Acesse o link do **GitHub Pages** para visualizar a versão online.
 
 ---
-**Desenvolvido por:** Davi Bicalho de Lima
-**Matrícula:** 202451087738
+**Desenvolvido por:** Davi Bicalho de Lima, Pedro Henrique de Paula Crepaldi e Fernand José dos Reis Cruz.
+**Matrícula:** 202451087738 - 202351063128 - 202451089978
 **Instituição:** Newton Paiva
 
 https://davibicalhol.github.io/trabalhonewtonpaiva/
