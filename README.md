@@ -30,3 +30,5 @@ O sistema simula uma jornada de compra completa: desde a visualização de produ
 **Desenvolvido por:** Davi Bicalho de Lima
 **Matrícula:** 202451087738
 **Instituição:** Newton Paiva
+
+https://davibicalhol.github.io/baguncnewtonpaiva/
