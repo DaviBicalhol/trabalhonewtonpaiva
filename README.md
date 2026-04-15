@@ -31,4 +31,4 @@ O sistema simula uma jornada de compra completa: desde a visualização de produ
 **Matrícula:** 202451087738
 **Instituição:** Newton Paiva
 
-https://davibicalhol.github.io/baguncnewtonpaiva/
+https://davibicalhol.github.io/trabalhonewtonpaiva/
